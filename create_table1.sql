@@ -1,3 +1,14 @@
+-- Task: Online Bookstore - Create tables
+-- Create the tables based on the provided Online Bookstore relational schema in the SWD03 database.
+-- Define appropriate data types and specify whether null values are allowed for the attributes.
+-- The data types and table structures are based on the given requirements.
+
+-- Tables:
+-- 1. CUSTOMER
+-- 2. ORDER
+-- 3. ORDER_LINE
+-- 4. PRODUCT
+
 create table ASIAKAS
 (asiakas_id VARCHAR(4) NOT NULL,
 as_nimi VARCHAR (30),
