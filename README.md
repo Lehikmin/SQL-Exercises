@@ -3,3 +3,5 @@ Database course assignment codes, where I have used **SQL Server** and **SQL Ser
 Exersice1: The basic SQL commands, create table, insert, select, and delete.
 
 Exersice2: Basic select commands.
+
+Exersice3: Basic join commands.
