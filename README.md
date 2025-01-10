@@ -7,3 +7,5 @@ Exersice2: Select commands.
 Exersice3: Join commands.
 
 Exersice4: Aggregate Functions.
+
+Exercise5: Subqueries, Set Operations, Updates.
