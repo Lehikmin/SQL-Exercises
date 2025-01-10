@@ -9,3 +9,5 @@ Exersice3: Join commands.
 Exersice4: Aggregate Functions.
 
 Exercise5: Subqueries, Set Operations, Updates.
+
+Exercise6: Information schema, views.
